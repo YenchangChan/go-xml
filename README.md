@@ -1,9 +1,9 @@
 # xml
-go-xml is a library for wirte data to xml file written by Go.
+xml is a library for wirte data to xml file written by Go.
 # Quick Start
 ## Installation
 ```bash
-go get github.com/YenchangChan/gxml
+go get github.com/YenchangChan/xml
 ```
 ## Example
 ```go
